@@ -10,11 +10,19 @@
 .logo {
     color: #000000;
 }
+.logo:hover {
+    color: #2196F3;
+}
 
 /* Site nav */
 .site-nav .link {
     color: #2196F3;
 }
+.site-nav .link:hover,  
+.site-nav .link:focus {
+    color: #000000;   
+}
+
 .site-nav .link-2 {
     color: #212121;
 }
