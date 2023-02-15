@@ -11,9 +11,12 @@
     color: #000000;
 }
 
-/*Site nav*/
+/*.site-nav*/
 .site-nav .link {
     color: blue;
 }
 
-
+/*.auth-nav*/
+.auth-nav .link {
+    color: blue;
+}
