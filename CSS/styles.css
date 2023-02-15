@@ -35,11 +35,11 @@
 .auth-nav .link {
     color: #2196F3;
 }
-
-.auth-nav .link-2:hover,  
-.auth-nav .link-2:focus {
+.auth-nav .link:hover,  
+.auth-nav .link:focus {
     color: #000000;    
 }
+
 .auth-nav .link-2 {
     color: #212121;
 }
