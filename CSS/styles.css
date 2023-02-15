@@ -34,6 +34,9 @@
 .site-nav .link:focus {
     color: #000000;   
 }
+.site-nav .link .current {
+    color: var(--title-text-color);
+}
 
 .site-nav .link-2 {
     color: #212121;
