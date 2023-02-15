@@ -15,8 +15,13 @@
 .site-nav .link {
     color: #2196F3;
 }
-
+.site-nav .link-2 {
+    color: #212121;
+}
 /*.auth-nav*/
 .auth-nav .link {
     color: #2196F3;
+}
+.auth-nav .link-2 {
+    color: #212121;
 }
