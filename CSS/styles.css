@@ -3,10 +3,12 @@
     color: rgba(0,0,0.8);
 }
 
-ul {
+.list {
     list-style: none;
 }
 
 .logo {
     color: #000000;
 }
+
+
