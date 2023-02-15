@@ -1,6 +1,13 @@
+:root {
+    --primary-text-color: rgba(0,0,0.8);
+    --title-text-color: #000000;
+    --accent-color: #2196F3;
+}
+
+
 .body {
     background-color: #fff;
-    color: rgba(0,0,0.8);
+    color: var(--primary-text-color);
 }
 
 .list {
@@ -11,12 +18,12 @@
     color: #000000;
 }
 .logo:hover, .logo:focus {
-    color: #2196F3;
+    color: var(--accent-color);
 }
 
 /* Site nav */
 .site-nav .link {
-    color: #2196F3;
+    color: var(--accent-color);
 }
 .site-nav .link:hover,  
 .site-nav .link:focus {
@@ -28,24 +35,24 @@
 }
 .site-nav .link-2:hover,  
 .site-nav .link-2:focus {
-    color: #2196F3;   
+    color: var(--accent-color);   
 }
 
 /* Auth nav */
 .auth-nav .link {
-    color: #2196F3;
+    color: var(--accent-color);
 }
 .auth-nav .link:hover,  
 .auth-nav .link:focus {
-    color: #000000;    
+    color: var(--primary-text-color);    
 }
 
 .auth-nav .link-2 {
-    color: #212121;
+    color: var(--primary-text-color);
 }
 .auth-nav .link-2:hover,  
 .auth-nav .link-2:focus {
-    color: #2196F3
+    color: var(--accent-color)
 }
 
 /* Hero */
@@ -57,5 +64,10 @@
 
 /* Section */
 .section-title {
+    color: #000000;
+}
+
+/*Peculiarity list*/
+.peculiarity-list .title {
     color: #000000;
 }
