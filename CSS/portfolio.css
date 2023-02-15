@@ -32,3 +32,10 @@
 .site-nav .link .current {
     color: var(--title-text-color);
 }
+.site-nav .link-secondary {
+    color: #212121;
+}
+.site-nav .link-secondary:hover,  
+.site-nav .link-secondary:focus {
+    color: var(--accent-color);   
+}
