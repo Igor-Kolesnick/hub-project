@@ -9,7 +9,6 @@
     background-color: var(--background-white-color);
     color: var(--primary-text-color);
 }
-
 .list {
     list-style: none;
 }
@@ -26,14 +25,14 @@
 }
 
 /* Site nav */
-.site-nav .link-current {
+.site-nav .link {
     color: var(--accent-color);
 }
 .site-nav .link:hover,  
 .site-nav .link:focus {
     color: #000000;   
 }
-.site-nav .link-current {
+.site-nav .link .current {
     color: var(--title-text-color);
 }
 .site-nav .link-secondary {
