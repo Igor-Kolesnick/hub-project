@@ -25,14 +25,14 @@
 }
 
 /* Site nav */
-.site-nav .link {
+.site-nav .link-current {
     color: var(--accent-color);
 }
 .site-nav .link:hover,  
 .site-nav .link:focus {
     color: #000000;   
 }
-.site-nav .link .current {
+.site-nav .link-current {
     color: var(--title-text-color);
 }
 .site-nav .link-secondary {
