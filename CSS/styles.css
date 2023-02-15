@@ -2,11 +2,12 @@
     --primary-text-color: rgba(0,0,0.8);
     --title-text-color: #000000;
     --accent-color: #2196F3;
+    --background-white-color: #ffffff;
 }
 
 
 .body {
-    background-color: #fff;
+    background-color: var(--background-white-color);
     color: var(--primary-text-color);
 }
 
@@ -59,9 +60,15 @@
 .hero-title {
     color: black;
 }
+.button {
+    color: var(--title-text-color);
+    background-color: var(--background-white-color);
+}
 
-
-
+.button-primary {
+    color: var(--background-white-color);
+    background-color: var(--accent-color);
+}
 /* Section */
 .section-title {
     color: #000000;
@@ -71,3 +78,4 @@
 .peculiarity-list .title {
     color: #000000;
 }
+
