@@ -1,0 +1,22 @@
+:root {
+    --primary-text-color: rgba(0,0,0.8);
+    --title-text-color: #000000;
+    --accent-color: #2196F3;
+    --background-white-color: #ffffff;
+}
+
+.body {
+    background-color: var(--background-white-color);
+    color: var(--primary-text-color);
+}
+
+.logo {
+    color: #000000;
+}
+.primary-logo {
+    color: #2196F3;
+}
+
+.logo:hover, .logo:focus {
+    color: var(--accent-color);
+}
