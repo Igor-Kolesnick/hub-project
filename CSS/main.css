@@ -142,6 +142,7 @@
 /* Footer */
 .logo {
     color: #000000;
+    text-decoration: none;
 }
 .primary-logo {
     color: #2196F3;
