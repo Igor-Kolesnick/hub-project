@@ -73,11 +73,3 @@
 .logo:focus {
     color: var(--accent-color);
 }
-
-.paragraph-nav {
-    color: var(--title-text-color);
-}
-.paragraph-nav .link:hover,  
-.link:focus {
-    color: var(--accent-color);    
-}

@@ -104,11 +104,3 @@
 .logo:focus {
     color: var(--accent-color);
 }
-
-.paragraph-nav .link {
-    color: var(--title-text-color);
-}
-.link:hover,  
-.link:focus {
-    color: var(--accent-color);    
-}
