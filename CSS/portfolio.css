@@ -20,7 +20,8 @@
     color: #2196F3;
 }
 
-.logo:hover, .logo:focus {
+.logo:hover, 
+.logo:focus {
     color: var(--accent-color);
 }
 
@@ -68,6 +69,7 @@
     color: #2196F3;
 }
 
-.logo:hover, .logo:focus {
+.logo:hover, 
+.logo:focus {
     color: var(--accent-color);
 }
