@@ -105,10 +105,10 @@
     color: var(--accent-color);
 }
 
-.addres-nav .link {
+.address-nav .link {
     color: var(--title-text-color);
 }
-.auth-nav .link:hover,  
-.auth-nav .link:focus {
+.address-nav .link:hover,  
+.address-nav .link:focus {
     color: var(--accent-color);    
 }
