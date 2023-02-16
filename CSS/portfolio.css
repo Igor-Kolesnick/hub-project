@@ -74,10 +74,10 @@
     color: var(--accent-color);
 }
 
-.address-nav .link {
+.paragraph-nav .link {
     color: var(--title-text-color);
 }
-.address-nav .link:hover,  
-.address-nav .link:focus {
+.paragraph-nav .link:hover,  
+.paragraph-nav .link:focus {
     color: var(--accent-color);    
 }
