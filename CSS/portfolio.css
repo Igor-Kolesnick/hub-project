@@ -74,10 +74,10 @@
     color: var(--accent-color);
 }
 
-.paragraph-nav .link {
+.paragraph-nav {
     color: var(--title-text-color);
 }
-.link:hover,  
+.paragraph-nav .link:hover,  
 .link:focus {
     color: var(--accent-color);    
 }
