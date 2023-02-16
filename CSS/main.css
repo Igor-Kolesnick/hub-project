@@ -108,7 +108,7 @@
 .paragraph-nav .link {
     color: var(--title-text-color);
 }
-.paragraph-nav .link:hover,  
-.paragraph-nav .link:focus {
+.link:hover,  
+.link:focus {
     color: var(--accent-color);    
 }
