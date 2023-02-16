@@ -11,6 +11,7 @@
     color: var(--primary-text-color);
     
     font-family: Roboto, sans-serif;
+    letter-spacing: 0.02em;
 }
 
 .list {
@@ -20,6 +21,7 @@
 .logo {
     color: #000000;
     font-family: Raleway, sans-serif;
+    letter-spacing: 0.03em;
 }
 .primary-logo {
     color: #2196F3;
