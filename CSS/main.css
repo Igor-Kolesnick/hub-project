@@ -95,12 +95,6 @@
 .button {
     color: var(--title-text-color);
     background-color: var(--background-white-color);
-}
-
-.button-primary {
-    color: var(--background-white-color);
-    background-color: var(--accent-color);
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -108,6 +102,11 @@
     line-height: 1.9;
     text-align: center;
     letter-spacing: 0.06em;
+}
+
+.button-primary {
+    color: var(--background-white-color);
+    background-color: var(--accent-color);
 }
 
 .button-primary:hover,
