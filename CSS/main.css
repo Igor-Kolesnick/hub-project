@@ -91,3 +91,15 @@
 .peculiarity-list .title {
     color: var(--title-text-color);
 }
+
+/* Footer */
+.logo {
+    color: #000000;
+}
+.primary-logo {
+    color: #2196F3;
+}
+
+.logo:hover, .logo:focus {
+    color: var(--accent-color);
+}

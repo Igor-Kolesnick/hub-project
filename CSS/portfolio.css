@@ -59,3 +59,15 @@
 .auth-nav .link-secondary:focus {
     color: var(--accent-color)
 }
+
+/* Footer */
+.logo {
+    color: #000000;
+}
+.primary-logo {
+    color: #2196F3;
+}
+
+.logo:hover, .logo:focus {
+    color: var(--accent-color);
+}
