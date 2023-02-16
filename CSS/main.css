@@ -95,25 +95,24 @@
 .button {
     color: var(--title-text-color);
     background-color: var(--background-white-color);
-    
+}
+
+.button-primary {
+    color: var(--background-white-color);
+    background-color: var(--accent-color);
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
     
-    /* identical to box height, or 188% */
-
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
 }
 
-.button-primary {
-    color: var(--background-white-color);
-    background-color: var(--accent-color);
-}
 .button-primary:hover,
 .button-primary:focus {
     color: var(--title-text-color);
@@ -123,6 +122,14 @@
 /* Section */
 .section-title {
     color: #000000;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.7;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 
 /*Peculiarity list*/
