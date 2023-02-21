@@ -59,3 +59,23 @@
 .auth-nav .link-secondary:focus {
     color: var(--accent-color)
 }
+
+/* Footer */
+.logo {
+    color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+.primary-logo {
+    color: #2196F3;
+}
+
+.logo:hover, 
+.logo:focus {
+    color: var(--accent-color);
+}
