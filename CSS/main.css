@@ -84,7 +84,7 @@
 }
 
 /* Hero */
-.hero .hero-title {
+.hero-title {
     color: black;
     
     font-family: 'Roboto';
@@ -98,12 +98,11 @@
     letter-spacing: 0.06em;
     text-transform: uppercase;
 }
-.hero-title .button-primary {
+.button-primary {
     color: var(--title-text-color);
     background-color: var(--background-white-color);
 }
-
-.hero-title .button-primary {
+.button-primary {
     color: var(--background-white-color);
     background-color: var(--accent-color);
     font-family: 'Roboto';
